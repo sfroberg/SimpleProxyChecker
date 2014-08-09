@@ -16,3 +16,5 @@ I decided to open source this part of code because tired of constant crashes and
 
 With your help it will get better.
 
+For contacting & sending patches (with preferably patch -Naur command): 
+http://www.binarytouch.com/contact.php

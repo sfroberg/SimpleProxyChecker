@@ -12,6 +12,7 @@ Help needed from people who can do the following:
   3.  Have knowledge of multithreading and especially of Qt multithreading. Important because                                    I have almost zero knowledge of multithreading.
 
 This code is originally from my other project CyberDragon browser: http://sourceforge.net/projects/cyberdragonbrowser/
+
 I decided to open source this part of code because tired of constant crashes and other issues with proxy checker code.
 
 With your help it will get better.
